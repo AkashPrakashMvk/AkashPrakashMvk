@@ -1,25 +1,13 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15346
-Fork on GitHub
-4188
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hey✌🏻 Iam Akash Prakash 🧒🏻</h1>
 <h3 align="center">MERN Stack Developer | Building Web Applications with React , Express.js , Node.js and MongoDB. Self Learner 👨‍💻 and passionate developer</h3>
 
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg);
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashprakashmvk&label=Profile%20views&color=0e75b6&style=flat" alt="akashprakashmvk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashprakashmvk" alt="akashprakashmvk" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://mez.ink/akashprakash](https://mez.ink/akashprakash)
 
@@ -60,28 +48,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashprakashmvk&show_icons=true&locale=en" alt="akashprakashmvk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprakashmvk&" alt="akashprakashmvk" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
