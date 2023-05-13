@@ -20,8 +20,7 @@
 
 - ⚡ Fun fact **I am a crazy coder.😄 👨🏻‍💻**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 
