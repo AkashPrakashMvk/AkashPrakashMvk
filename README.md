@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akashprakashmvk1@gmail.com**
 
-- 📄 Know about my experiences [https://mez.ink/akashprakashprojects](https://mez.ink/akashprakashprojects)
+- 📄 Know about my experiences [https://mez.ink/akashprakash](https://mez.ink/akashprakash)
 
 - ⚡ Fun fact **I am a crazy coder.😄 👨🏻‍💻**
 
