@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://mez.ink/akashprakash](https://mez.ink/akashprakash)
+- 👨‍💻 All of my projects are available at [https://mez.ink/akashprakashproject](https://mez.ink/akashprakashproject)
 
 - 💬 Ask me about **Unity,js,html,css,bootstrap,c,c++,java,c#,DSA**
 
