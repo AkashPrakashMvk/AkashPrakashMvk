@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://mez.ink/akashprakash](https://mez.ink/akashprakash)
 
-- ⚡ Fun fact **I am a crazy coder.😄 👨🏻‍💻**
+- ⚡ Fun fact **I am a crazy coder and Game addict.😄 👨🏻‍💻**
 
 
 
